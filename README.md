@@ -11,3 +11,4 @@ This is my personal build of [suckless terminal (st 0.8.5)](https://st.suckless.
 * [boxdraw](https://st.suckless.org/patches/boxdraw/)
 * [ligatures](https://st.suckless.org/patches/ligatures/)
 * [undercurl](https://st.suckless.org/patches/undercurl/)
+* [xresources](https://st.suckless.org/patches/xresources/)
